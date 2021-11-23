@@ -1,2 +1,2 @@
-# MultiplicationTable
+# MultiplicationTablecpp
 #100DaysOfCoding day3
